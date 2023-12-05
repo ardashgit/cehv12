@@ -70,3 +70,4 @@ By understanding the motives, goals, objectives, and vulnerabilities of informat
 
 ![image](https://github.com/ardashgit/cehv12/assets/142577241/02ca042f-19e7-4da2-be33-596c956b6b78)
 
+***

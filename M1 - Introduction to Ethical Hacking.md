@@ -65,3 +65,8 @@ Vulnerabilities are weaknesses in systems or software that can be exploited by a
 -   Social engineering attacks: Social engineering attacks exploit human psychology to trick people into revealing sensitive information or taking actions that compromise security.
 
 By understanding the motives, goals, objectives, and vulnerabilities of information security attacks, organizations can better defend themselves against these threats.
+
+***
+
+![image](https://github.com/ardashgit/cehv12/assets/142577241/02ca042f-19e7-4da2-be33-596c956b6b78)
+
